@@ -1,2 +1,3 @@
 # python-sql-data-practice
-Python and SQL practice repository covering common data engineering patterns.
+This repository contains hands-on Python and SQL examples focused on
+data engineering, analytics, and problem-solving fundamentals.
